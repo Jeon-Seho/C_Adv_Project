@@ -1,0 +1,4 @@
+seho0423	newpw	1
+wldnjs0505	user	0
+dmsdn1212	1234	0
+newid	newpw	0
